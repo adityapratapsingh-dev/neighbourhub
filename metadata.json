@@ -1,0 +1,6 @@
+{
+  "name": "NeighbourHub",
+  "description": "A local service marketplace connecting you with trusted professionals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
